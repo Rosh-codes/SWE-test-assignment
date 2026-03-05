@@ -82,3 +82,6 @@ In Quick-Calc, running `npm test` at any point acts as a regression check. If a 
 | large numbers                    | Unit        | ✅ Pass     |
 | 5 + 3 = 8 (UI interaction)      | Integration | ✅ Pass     |
 | clear resets result to 0 (UI)   | Integration | ✅ Pass     |
+
+
+TESTING CHECKED

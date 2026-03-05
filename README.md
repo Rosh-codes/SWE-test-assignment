@@ -33,7 +33,7 @@ swe-testing-assignment/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/swe-testing-assignment.git
+git clone https://github.com/Rosh-codes/SWE-test-assignment
 cd swe-testing-assignment
 
 # Install dependencies
